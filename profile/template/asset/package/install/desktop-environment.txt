@@ -18,6 +18,40 @@ wf-shell
 xwayland
 
 
+swayidle
+swaylock
+
+
+swaybg
+hyprpaper
+wf-shell
+
+
+waybar
+
+
+wlogout
+
+
+wofi
+
+
+nwg-look
+
+
+mako-notifier
+
+
+policykit-1-gnome
+
+
+grimshot
+#screengrab
+#xfce4-screenshooter
+
+
+kitty
+foot
 xfce4-terminal
 
 
@@ -32,10 +66,8 @@ pavucontrol
 pulseaudio
 
 
-xarchiver
 
 
-xfce4-panel-profiles
 
 
 
